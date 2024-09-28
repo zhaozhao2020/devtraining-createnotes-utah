@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_security_acl_role">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -15,6 +14,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-10 15:48:51</sys_updated_on>
         <sys_user_role display_value="x_snc_createnotes.note_user" name="x_snc_createnotes.note_user">037be169090232007f44e1046c8ff602</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sp_column">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
     <sp_column action="INSERT_OR_UPDATE">
         <class_name/>
         <order>2</order>
+        <semantic_tag/>
         <size>9</size>
         <size_lg/>
         <size_sm/>
